@@ -1,0 +1,60 @@
+div {
+    color: lightgray;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(41, 49, 49);
+}
+
+h1 {
+    color: lightgray;
+}
+
+.BTxt {
+    font-size: large;
+}
+
+h2 {
+    color: lightpink;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+main {
+    margin-top: 100px;
+}
+
+.PDisc {
+    font-size: x-large;
+}
+
+.Project {
+    margin-bottom: 100px;
+}
+
+img {
+    width: 33%;
+}
+
+.topimage {
+    text-align: center;
+}
+
+img.hpimage {
+    float: left;
+}
+
+div.hpimage {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+a {
+    color: aqua;
+}
